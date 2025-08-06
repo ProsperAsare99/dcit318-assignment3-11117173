@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 101,
+    "Name": "Stapler",
+    "Quantity": 12,
+    "DateAdded": "2025-08-06T17:24:57.2745612+00:00"
+  },
+  {
+    "Id": 102,
+    "Name": "Notebook",
+    "Quantity": 30,
+    "DateAdded": "2025-08-06T17:24:57.2798518+00:00"
+  },
+  {
+    "Id": 103,
+    "Name": "Desk Lamp",
+    "Quantity": 7,
+    "DateAdded": "2025-08-06T17:24:57.2798634+00:00"
+  },
+  {
+    "Id": 104,
+    "Name": "Extension Cord",
+    "Quantity": 18,
+    "DateAdded": "2025-08-06T17:24:57.2798635+00:00"
+  },
+  {
+    "Id": 105,
+    "Name": "Whiteboard Marker",
+    "Quantity": 50,
+    "DateAdded": "2025-08-06T17:24:57.2798636+00:00"
+  }
+]

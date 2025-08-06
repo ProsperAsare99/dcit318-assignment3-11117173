@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\bin\Debug\net10.0\InventoryManagementApp.exe
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\bin\Debug\net10.0\InventoryManagementApp.deps.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\bin\Debug\net10.0\InventoryManagementApp.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\bin\Debug\net10.0\InventoryManagementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\bin\Debug\net10.0\InventoryManagementApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\refint\InventoryManagementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\InventoryManagementApp.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\InventoryManagementApp\obj\Debug\net10.0\ref\InventoryManagementApp.dll
