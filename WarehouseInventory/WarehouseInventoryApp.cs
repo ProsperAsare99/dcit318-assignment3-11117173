@@ -11,7 +11,7 @@ namespace WarehouseInventory
         int Quantity { get; set; }
     }
 
-    // --- Electronic Product ---
+    // --- Electronic Item ---
     public class ElectronicItem : IInventoryItem
     {
         public int Id { get; }
@@ -30,7 +30,7 @@ namespace WarehouseInventory
         }
     }
 
-    // --- Grocery Product ---
+    // --- Grocery Item ---
     public class GroceryItem : IInventoryItem
     {
         public int Id { get; }
@@ -117,13 +117,13 @@ namespace WarehouseInventory
 
         public void SeedData()
         {
-            _electronics.AddItem(new ElectronicItem(1, "Smartphone", 20, "Infinix", 24));
-            _electronics.AddItem(new ElectronicItem(2, "Laptop", 10, "Dell", 36));
-            _electronics.AddItem(new ElectronicItem(3, "Air Conditioner", 5, "Samsung", 48));
+            _electronics.AddItem(new ElectronicItem(1, "Bluetooth Speaker", 25, "Tecno", 18));
+            _electronics.AddItem(new ElectronicItem(2, "Tablet", 15, "Lenovo", 24));
+            _electronics.AddItem(new ElectronicItem(3, "LED TV", 8, "LG", 36));
 
-            _groceries.AddItem(new GroceryItem(101, "Rice Bag", 50, DateTime.Now.AddMonths(6)));
-            _groceries.AddItem(new GroceryItem(102, "Tomato Paste", 30, DateTime.Now.AddMonths(3)));
-            _groceries.AddItem(new GroceryItem(103, "Bottled Water", 100, DateTime.Now.AddYears(1)));
+            _groceries.AddItem(new GroceryItem(101, "Groundnut Paste", 60, DateTime.Now.AddMonths(4)));
+            _groceries.AddItem(new GroceryItem(102, "Banku Mix", 40, DateTime.Now.AddMonths(2)));
+            _groceries.AddItem(new GroceryItem(103, "Palm Oil", 70, DateTime.Now.AddMonths(6)));
         }
 
         public void PrintAllItems<T>(InventoryRepository<T> repo) where T : IInventoryItem
@@ -166,7 +166,7 @@ namespace WarehouseInventory
         {
             try
             {
-                _electronics.AddItem(new ElectronicItem(1, "Duplicate Phone", 10, "Nokia", 12));
+                _groceries.AddItem(new GroceryItem(101, "Duplicate Groundnut", 10, DateTime.Now.AddMonths(1)));
             }
             catch (DuplicateItemException ex)
             {
@@ -176,14 +176,14 @@ namespace WarehouseInventory
 
         public void RemoveNonExistentItemTest()
         {
-            RemoveItemById(_groceries, 999);
+            RemoveItemById(_electronics, 999);
         }
 
         public void InvalidQuantityUpdateTest()
         {
             try
             {
-                _groceries.UpdateQuantity(101, -5);
+                _groceries.UpdateQuantity(102, -10);
             }
             catch (InvalidQuantityException ex)
             {
