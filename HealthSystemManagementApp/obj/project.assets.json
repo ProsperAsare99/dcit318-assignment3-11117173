@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asare\\.vscode\\dcit318-assignment3-11117173\\HealthSystemApp\\HealthSystemApp.csproj",
-      "projectName": "HealthSystemApp",
-      "projectPath": "C:\\Users\\asare\\.vscode\\dcit318-assignment3-11117173\\HealthSystemApp\\HealthSystemApp.csproj",
+      "projectUniqueName": "C:\\Users\\asare\\.vscode\\dcit318-assignment3-11117173\\HealthSystemManagementApp\\HealthSystemManagementApp.csproj",
+      "projectName": "HealthSystemManagementApp",
+      "projectPath": "C:\\Users\\asare\\.vscode\\dcit318-assignment3-11117173\\HealthSystemManagementApp\\HealthSystemManagementApp.csproj",
       "packagesPath": "C:\\Users\\asare\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asare\\.vscode\\dcit318-assignment3-11117173\\HealthSystemApp\\obj\\",
+      "outputPath": "C:\\Users\\asare\\.vscode\\dcit318-assignment3-11117173\\HealthSystemManagementApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asare\\AppData\\Roaming\\NuGet\\NuGet.Config"
