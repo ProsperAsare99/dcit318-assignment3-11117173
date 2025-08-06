@@ -78,15 +78,15 @@ namespace HealthcareSystem
 
         public void SeedData()
         {
-            _patientRepo.Add(new Patient(1, "Ama Boateng", 28, "Female"));
-            _patientRepo.Add(new Patient(2, "Kwame Mensah", 45, "Male"));
-            _patientRepo.Add(new Patient(3, "Efua Adjei", 34, "Female"));
+            _patientRepo.Add(new Patient(1, "Austin Asare", 23, "Male"));
+            _patientRepo.Add(new Patient(2, "Akpene Fortune", 20, "Female"));
+            _patientRepo.Add(new Patient(3, "Asare Shaibu", 22, "Male"));
 
-            _prescriptionRepo.Add(new Prescription(101, 1, "Paracetamol", DateTime.Now.AddDays(-3)));
-            _prescriptionRepo.Add(new Prescription(102, 1, "Amoxicillin", DateTime.Now.AddDays(-2)));
-            _prescriptionRepo.Add(new Prescription(103, 2, "Ibuprofen", DateTime.Now.AddDays(-5)));
-            _prescriptionRepo.Add(new Prescription(104, 3, "Cough Syrup", DateTime.Now.AddDays(-1)));
-            _prescriptionRepo.Add(new Prescription(105, 2, "Vitamin C", DateTime.Now));
+            _prescriptionRepo.Add(new Prescription(101, 1, "Tramadol", DateTime.Now.AddDays(-3)));
+            _prescriptionRepo.Add(new Prescription(102, 1, "Morphine", DateTime.Now.AddDays(-2)));
+            _prescriptionRepo.Add(new Prescription(103, 2, "Contraceptive Pill", DateTime.Now.AddDays(-5)));
+            _prescriptionRepo.Add(new Prescription(104, 3, "Omeprazole", DateTime.Now.AddDays(-1)));
+            _prescriptionRepo.Add(new Prescription(105, 2, "Paracetamol", DateTime.Now));
         }
 
         public void BuildPrescriptionMap()
