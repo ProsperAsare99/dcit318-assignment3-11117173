@@ -3,3 +3,13 @@ C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\
 C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfo.cs
 C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.exe
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.deps.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\refint\FinanceManagementSystem.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\ref\FinanceManagementSystem.dll
