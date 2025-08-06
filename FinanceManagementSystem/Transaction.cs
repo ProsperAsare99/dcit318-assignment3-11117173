@@ -4,3 +4,4 @@ public record Transaction(
     decimal Amount,
     string Category
 );
+namespace FinanceManagementSystem.Models

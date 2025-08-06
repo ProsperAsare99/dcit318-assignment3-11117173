@@ -1,0 +1,5 @@
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.sourcelink.json
