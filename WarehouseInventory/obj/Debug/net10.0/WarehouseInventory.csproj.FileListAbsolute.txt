@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\bin\Debug\net10.0\WarehouseInventory.exe
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\bin\Debug\net10.0\WarehouseInventory.deps.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\bin\Debug\net10.0\WarehouseInventory.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\bin\Debug\net10.0\WarehouseInventory.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\bin\Debug\net10.0\WarehouseInventory.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\refint\WarehouseInventory.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\WarehouseInventory\obj\Debug\net10.0\ref\WarehouseInventory.dll
