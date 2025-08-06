@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\bin\Debug\net10.0\HealthSystemManagementApp.exe
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\bin\Debug\net10.0\HealthSystemManagementApp.deps.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\bin\Debug\net10.0\HealthSystemManagementApp.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\bin\Debug\net10.0\HealthSystemManagementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\bin\Debug\net10.0\HealthSystemManagementApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\refint\HealthSystemManagementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\HealthSystemManagementApp.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\HealthSystemManagementApp\obj\Debug\net10.0\ref\HealthSystemManagementApp.dll
