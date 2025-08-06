@@ -8,7 +8,7 @@ public class FinanceApp
     public void Run()
     {
         // Step i: Initialize account
-        var savingsAccount = new SavingsAccount("ACC-20250806", 1000m);
+        var savingsAccount = new SavingsAccount("ACC-000111999", 1000m);
 
         // Step ii: Create sample transactions
         var t1 = new Transaction(1, DateTime.Now, 150m, "Groceries");
