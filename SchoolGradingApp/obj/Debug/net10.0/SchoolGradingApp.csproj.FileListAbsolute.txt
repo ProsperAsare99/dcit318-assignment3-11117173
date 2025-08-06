@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\bin\Debug\net10.0\SchoolGradingApp.exe
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\bin\Debug\net10.0\SchoolGradingApp.deps.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\bin\Debug\net10.0\SchoolGradingApp.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\bin\Debug\net10.0\SchoolGradingApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\bin\Debug\net10.0\SchoolGradingApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\refint\SchoolGradingApp.dll
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\SchoolGradingApp.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment3-11117173\SchoolGradingApp\obj\Debug\net10.0\ref\SchoolGradingApp.dll

@@ -1,0 +1,5 @@
+Mawuena Adjei (ID: 301): Score = 87, Grade = A
+Fiifi Nkrumah (ID: 302): Score = 79, Grade = B
+Abenaa Sika (ID: 303): Score = 65, Grade = C
+Selorm Quaye (ID: 304): Score = 53, Grade = D
+Yaw Manu (ID: 305): Score = 41, Grade = F
