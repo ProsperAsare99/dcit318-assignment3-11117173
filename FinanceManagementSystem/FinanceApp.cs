@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using FinanceManagementSystem.Models;       // for Transaction
+using FinanceManagementSystem.Processors;   // for ITransactionProcessor
 
 public class FinanceApp
 {

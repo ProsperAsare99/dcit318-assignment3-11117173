@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using FinanceManagementSystem.Models;
 using FinanceManagementSystem.Interfaces;
+using FinanceManagementSystem.Models;       // for Transaction
+using FinanceManagementSystem.Processors;   // for ITransactionProcessor
 
 namespace FinanceManagementSystem.Services
 {

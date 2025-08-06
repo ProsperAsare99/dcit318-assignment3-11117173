@@ -1,3 +1,6 @@
+using FinanceManagementSystem.Models;       // for Transaction
+using FinanceManagementSystem.Processors;   // for ITransactionProcessor
+
 public sealed class SavingsAccount : Account
 {
     public SavingsAccount(string accountNumber, decimal initialBalance)

@@ -1,4 +1,6 @@
 using System;
+using FinanceManagementSystem.Models;       // for Transaction
+using FinanceManagementSystem.Processors;   // for ITransactionProcessor
 
 public class MobileMoneyProcessor : ITransactionProcessor
 {

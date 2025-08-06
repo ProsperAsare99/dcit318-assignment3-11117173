@@ -1,17 +1,22 @@
-public class Account
+using FinanceManagementSystem.Models;
+
+namespace FinanceManagementSystem.Accounts
 {
-    public string AccountNumber { get; }
-    public decimal Balance { get; protected set; }
-
-    public Account(string accountNumber, decimal initialBalance)
+    public class Account
     {
-        AccountNumber = accountNumber;
-        Balance = initialBalance;
-    }
+        public string AccountNumber { get; }
+        public decimal Balance { get; protected set; }
 
-    public virtual void ApplyTransaction(Transaction transaction)
-    {
-        Balance -= transaction.Amount;
-        Console.WriteLine($"[Account] Applied {transaction.Amount:C}. New balance: {Balance:C}");
+        public Account(string accountNumber, decimal initialBalance)
+        {
+            AccountNumber = accountNumber;
+            Balance = initialBalance;
+        }
+
+        public virtual void ApplyTransaction(Transaction transaction)
+        {
+            Balance -= transaction.Amount;
+            Console.WriteLine($"[Account] Applied {transaction.Amount:C}. New balance: {Balance:C}");
+        }
     }
 }
